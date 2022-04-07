@@ -73,17 +73,17 @@ plt.show()
 
 ## Output:
 ## Contents in the data file (head, tail):
-![](o1.png)
-![](o2.png)
+![](output.png)
+![](output1.png)
 ## Checking for null values in the dataset:
-![](o3a.png)
+![](output3.png)
 # X and Y datasets from original dataset:
-![](o4.png)
-![](o5.png)
+![](output4.png)
+![](output5.png)
 ## Linear Regression Graph:
-![](o6.png)
+![](output7.png)
 ## Gradient Descent Graph:
-![](o7.png)
+![](output8.png)
 
 
 ## Result:
